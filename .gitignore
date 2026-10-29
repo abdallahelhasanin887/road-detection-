@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+runs/
+data/*
+!data/.gitkeep
+*.onnx
+*.engine
+*.pt
+!models/best.pt
+.ipynb_checkpoints/
+.DS_Store
